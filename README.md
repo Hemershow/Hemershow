@@ -14,7 +14,9 @@ public class Developer.AboutMe {
 ```
 <br />
 
-## Languages
+## Skills
+<br />
+
 <p>
   <img  width="38" height="38" alingn="left" src="./public/images/csharp.png" alt="C#"/>
   <img  width="38" height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
@@ -23,11 +25,6 @@ public class Developer.AboutMe {
   <img  width="38" height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
 </p>
 
----
-## Skills
-<br />
-
-![hemershow's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemershow&hide_border=true&layout=compact&langs_count=16&theme=radical)
 <br />
 ![hemershow's stats](https://github-readme-stats.vercel.app/api?username=hemershow&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 <br /> <br>
