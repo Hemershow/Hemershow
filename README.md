@@ -13,7 +13,6 @@ public class Developer.AboutMe {
 
 ```
 <br /> <br>
----
 
 ## Languages
 <p>
