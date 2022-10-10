@@ -28,6 +28,7 @@ public class Developer.AboutMe {
 <br>
 
 ![hemershow's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemershow&hide_border=true&layout=compact&langs_count=16&theme=radical)
+<br>
 ![hemershow's stats](https://github-readme-stats.vercel.app/api?username=hemershow&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 <br /> <br>
 
