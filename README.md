@@ -1,16 +1,15 @@
-### Hi there 👋
+# ✌(-‿-)✌ Hi!!
 
-<!--
-**Hemershow/Hemershow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cs
 
-Here are some ideas to get you started:
+namespace Developer.Hemershow;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+public class Developer.AboutMe {
+  name  = 'Hemerson Violin';
+  level = 19;
+  study  = 'Software Engineering in Unicesumar Curitiba';
+  work  = 'Developer and Analyst of System Trainee in Bosch Brasil';  
+}
+
+```
+<br />
