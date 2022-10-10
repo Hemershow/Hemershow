@@ -14,3 +14,8 @@ public class Developer.AboutMe {
 ```
 <br /> <br>
 
+---
+
+![Snake animation](https://github.com/hemershow/hemershow/blob/output/github-contribution-grid-snake.svg)
+
+<br /><br />
