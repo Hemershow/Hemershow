@@ -16,6 +16,9 @@ public class Developer.AboutMe {
 
 ---
 
-![Snake animation](https://github.com/hemershow/hemershow/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Hemershow/Hemershow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<br /><br />
+<br /> <br>
+
+---
