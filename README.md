@@ -16,7 +16,7 @@ public class Developer.AboutMe {
 
 ## Languages
 <p>
-  <img  width="38" height="38" alingn="left" src="./public/images/c#.png" alt="C#"/>
+  <img  width="38" height="38" alingn="left" src="./public/images/csharp.png" alt="C#"/>
   <img  width="38" height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
   <img  width="38" height="38" alingn="left" src="./public/images/html.png" alt="HTML"/>
   <img  width="38" height="38" alingn="left" src="./public/images/css.png" alt="CSS"/>
