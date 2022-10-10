@@ -12,7 +12,7 @@ public class Developer.AboutMe {
 }
 
 ```
-<br />
+<br>
 
 ## Skills
 <br />
@@ -25,10 +25,12 @@ public class Developer.AboutMe {
   <img  width="38" height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
 </p>
 
-<br />
+<br >
 ![hemershow's stats](https://github-readme-stats.vercel.app/api?username=hemershow&show_icons=true&theme=radical&hide=contribs,prs&cache_secons=1800&hide_border=true&include_all_commits=true&&count_private=true&count_ptivate=true)
 <br /> <br>
 
 ---
 
 ![Snake animation](https://github.com/hemershow/hemershow/blob/output/github-contribution-grid-snake.svg)
+
+<br />
