@@ -16,7 +16,7 @@ public class Developer.AboutMe {
 
 ## Languages
 <p>
-  <img  width="38" height="38" alingn="left" src="./public/images/csharp.png" alt="C#" />
+  <img  width="38" height="38" alingn="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ACsharp_Logo.png&psig=AOvVaw3E61OOGL4ajRpprembrXH4&ust=1665493232201000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjmrPbb1foCFQAAAAAdAAAAABAD" alt="C#" />
   <img  width="38" height="38" alingn="left" src="./public/images/python.png" alt="Python"/>
   <img  width="38" height="38" alingn="left" src="./public/images/html.png" alt="HTML"/>
   <img  width="38" height="38" alingn="left" src="./public/images/css.png" alt="CSS"/>
