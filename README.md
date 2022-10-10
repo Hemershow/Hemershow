@@ -24,7 +24,7 @@ public class Developer.AboutMe {
 </p>
 
 ---
-
+## Skills
 <br>
 
 ![hemershow's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hemershow&hide_border=true&layout=compact&langs_count=16&theme=radical)
@@ -32,3 +32,5 @@ public class Developer.AboutMe {
 <br /> <br>
 
 ---
+
+![Snake animation](https://github.com/hemershow/hemershow/blob/output/github-contribution-grid-snake.svg)
