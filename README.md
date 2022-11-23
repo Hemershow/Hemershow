@@ -8,7 +8,7 @@ public class Developer.AboutMe {
   name  = 'Hemerson Violin';
   level = 19;
   study  = 'Software Engineering at Unicesumar Curitiba';
-  work  = 'Systems Developer Analyst Trainee at Bosch Brasil';  
+  work  = 'Software Developer Trainee at Bosch Brasil';  
 }
 
 ```
