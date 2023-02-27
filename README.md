@@ -25,9 +25,6 @@ public class Developer.AboutMe {
   <img  width="38" height="38" alingn="left" src="./public/images/c++.png" alt="C++" />
 </p>
 
-
-<br >
-
 ## Stats
 
 <br >
