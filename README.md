@@ -1,7 +1,4 @@
-<h1 style="text-align: center;">Hi! </h1>
-
-<h3>About me</h3>
-<h4>✌(o‿o)✌</h4>
+<h1 style="text-align: center;">Hi!</h1>
 
 ```cs
 
@@ -15,6 +12,7 @@ public class Developer.AboutMe {
 }
 
 ```
+<h4>✌(o‿o)✌</h4>
 
 <h2>📋 Languages</h2>
 
