@@ -6,9 +6,9 @@ namespace Developer.Hemershow;
 
 public class Developer.AboutMe {
   name  = 'Hemerson Violin';
-  level = 20;
+  level = 21;
   study  = 'Software Engineering at Unicesumar Curitiba';
-  work  = 'Software Developer Trainee at Bosch Brasil';  
+  work  = 'Software Developer at Bosch Brasil';  
 }
 
 ```
