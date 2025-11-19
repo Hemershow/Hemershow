@@ -2,17 +2,16 @@
 
 ```cs
 
-namespace Developer.Hemershow
+namespace Developer.Hemershow;
+public sealed class AboutMe
 {
-    public class AboutMe
-    {
-        public string Name { get; set; } = "Hemerson Violin";
-        public int Level { get; set; } = 22;
-        public string Study { get; set; } = "Software Engineering";
-        public string Work { get; set; } = "Mid-Level Fullstack .NET Developer | CNH Industrial";
-        public string SpawnLocation { get; set; } = "Brazil";
-    }
+    public string Name { get; set; } = "Hemerson Violin";
+    public int Level { get; set; } = 22;
+    public string Study { get; set; } = "Software Engineering";
+    public string Work { get; set; } = "Mid-Level Fullstack .NET Developer | CNH Industrial";
+    public string SpawnLocation { get; set; } = "Brazil";
 }
+
 ```
 <h4>✌(o‿o)✌</h4>
 
